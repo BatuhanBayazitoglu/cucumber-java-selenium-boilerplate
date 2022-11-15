@@ -15,7 +15,7 @@ public class Login {
     public static void main(String[] args) {
         //parameters
         String url = "https://www.hepsiburada.com/uyelik/giris";
-        String userEmail = "bernagokce@gmail.com";
+        String userEmail = "batuhanbayazitoglu@gmail.com";
         String userPass = "password";
         String expected_data = "Hesabım";
         String browserType = "safari";
